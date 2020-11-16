@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: https://mattpascarelli.com
+  - title: "About"
+    url: https://mattpascarelli.com/about
+  - title: "Projects"
+    url: https://mattpascarelli.com/projects
+  - title: "Blog"
+    url: https://mattpascarelli.com/posts
+  - title: "Contact Me"
+    url: https://mattpascarelli.com/contact
