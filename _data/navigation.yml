@@ -5,10 +5,10 @@ main:
   - title: "About"
     url: /about
   - title: "Projects"
-    url: https://mattpascarelli.com/projects
+    url: /projects
   - title: "Gallery"
-    url: https://mattpascarelli.com/gallery
+    url: /gallery
   - title: "Blog"
-    url: https://mattpascarelli.com/posts
+    url: /posts
   - title: "Contact Me"
-    url: https://mattpascarelli.com/contact
+    url: /contact

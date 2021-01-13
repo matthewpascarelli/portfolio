@@ -1,0 +1,6 @@
+---
+title: 'gm(48) Game Jam'
+---
+On January 16th I will be participating in the 37th gm(48) game jam. The goal is to develop and code a game matching the voted on theme in just 48 hours.
+It should be a fun challenge as having a short deadline often drives innovation. My goal in entering is to challenge myself as a developer and program
+something new or in a way that I have not done before.
