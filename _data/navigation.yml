@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: https://mattpascarelli.com
+    url: /
   - title: "About"
-    url: https://mattpascarelli.com/about
+    url: /about
   - title: "Projects"
     url: https://mattpascarelli.com/projects
   - title: "Gallery"
